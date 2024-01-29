@@ -1,0 +1,19 @@
+h1, h2 {
+    color: #ed0808; 
+    font-family: Impact, sans-serif; 
+    text-align: center;
+}
+
+html {
+    font-family: Georgia, serif;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  p {
+    text-align: center;
+    font-size: larger;
+}
